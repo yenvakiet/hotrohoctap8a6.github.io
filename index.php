@@ -1,6 +1,4 @@
-<?php
-// index.php - Trang chủ Lớp 8A6 - Website học tập
-?>
+
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -66,4 +64,5 @@
         <p>&copy; 2025 Lớp 8A6. Tất cả quyền được bảo lưu.</p>
     </footer>
 </body>
+
 </html>
